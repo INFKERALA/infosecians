@@ -1,0 +1,10 @@
+
+# Alignments & Vector re-adjusted
+# script changes
+# Removed unwanted stuffs
+# Logo reworked
+# Image size optimized (Should load page Faster than before)
+# Mobile Friendly (Thanks to Vyshnav Vizz)
+# Smoother than before
+# On-page SEO 
+# Under the hood changes
